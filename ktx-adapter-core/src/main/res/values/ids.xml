@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="adapter_item" type="id" />
+    <item name="adapter" type="id" />
+    <item name="adapter_recyclerView" type="id" />
+</resources>
